@@ -1,0 +1,13 @@
+tornado==5.1.1
+numpy==1.18.1
+opencv_python==4.3.0.36
+onnxruntime==1.4.0
+Shapely==1.7.0
+pyclipper==1.2.0
+Pillow==7.2.0
+jieba
+pypinyin
+pypi-kenlm
+python_docx
+scikit-image
+reportlab
